@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-jsx-002/static/css/main.4d4a61e4.css",
+    "main.js": "/react-jsx-002/static/js/main.8a77f7c0.js",
+    "static/media/airbnb-logo.png": "/react-jsx-002/static/media/airbnb-logo.a58237a2e464dd912ded.png",
+    "index.html": "/react-jsx-002/index.html",
+    "main.4d4a61e4.css.map": "/react-jsx-002/static/css/main.4d4a61e4.css.map",
+    "main.8a77f7c0.js.map": "/react-jsx-002/static/js/main.8a77f7c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4a61e4.css",
+    "static/js/main.8a77f7c0.js"
+  ]
+}
